@@ -8,4 +8,4 @@ This is a "hello world" example website for the [**blogdown**](https://github.co
 I have created a research tab. It shall be about spiders and how beautiful they are!
 
 
-![Gooty Sapphire Ornamental Tarantula](/static/p-metallica.jpg)
+![Gooty Sapphire Ornamental Tarantula](/blogdown-example/static/p-metallica.jpg)
